@@ -9,7 +9,7 @@ class AswcicdAmigoscodeApplicationTests {
 
 	@Test
 	void contextLoads() {
-		Assertions.fail("Oooops test fail");
+//		Assertions.fail("Oooops test fail");
 	}
 
 }
